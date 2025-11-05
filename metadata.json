@@ -1,0 +1,5 @@
+{
+  "name": "Restaurant Table Management",
+  "description": "An MVP application for managing restaurant tables and orders. It features an interactive map, order tracking, and basic reporting, with all data saved locally.",
+  "requestFramePermissions": []
+}
